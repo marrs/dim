@@ -1,0 +1,3 @@
+// Copy this file to config.js and correct the fields accordingly.
+
+exports.app_root = '';  // Absolute path to app directory. Omit the trailing slash.
