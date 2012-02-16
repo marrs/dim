@@ -1,7 +1,7 @@
 Dim
 ===
 
-A dependency inverter for Node modules
+A dependency injector for Node modules
 --------------------------------------
 
 ### Purpose
